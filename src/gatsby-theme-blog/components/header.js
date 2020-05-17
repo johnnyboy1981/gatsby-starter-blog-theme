@@ -127,6 +127,8 @@ export default ({ children, title, ...props }) => {
         </div>
         {props.location.pathname === rootPath && <Bio />}
       </div>
+
+      HAHAHAHAHA
     </header>
   )
 }
